@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Diagnostics;
+var sleepSec = 5;
+if (args.Count() > 0 && args[0] != null && int.TryParse(args[0], out int a))
+    sleepSec = a;
 
-Console.WriteLine("app started");
+Console.WriteLine($"Record log every {sleepSec} seconds");
 int httpCount = -1;
 int httpsCount = -1;
 while (true)
@@ -40,5 +43,5 @@ while (true)
     p2.WaitForExit();
     Console.WriteLine($"Number Of http Connetion: {httpCount}");
     Console.WriteLine($"Number Of https Connetion: {httpsCount}");
-    Thread.Sleep(5000);
+    Thread.Sleep(sleepSec * 1000);
 }
