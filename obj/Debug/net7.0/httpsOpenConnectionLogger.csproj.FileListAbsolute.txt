@@ -1,0 +1,15 @@
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\bin\Debug\net7.0\httpsOpenConnectionLogger.exe
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\bin\Debug\net7.0\httpsOpenConnectionLogger.deps.json
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\bin\Debug\net7.0\httpsOpenConnectionLogger.runtimeconfig.json
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\bin\Debug\net7.0\httpsOpenConnectionLogger.dll
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\bin\Debug\net7.0\httpsOpenConnectionLogger.pdb
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.csproj.AssemblyReference.cache
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.AssemblyInfoInputs.cache
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.AssemblyInfo.cs
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.csproj.CoreCompileInputs.cache
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.dll
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\refint\httpsOpenConnectionLogger.dll
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.pdb
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\httpsOpenConnectionLogger.genruntimeconfig.cache
+C:\Users\user18\Desktop\httpsOpenConnectionLogger\obj\Debug\net7.0\ref\httpsOpenConnectionLogger.dll
